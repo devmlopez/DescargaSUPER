@@ -1,0 +1,6 @@
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\bin\Debug\LibIntuito.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\bin\Debug\CLR-UTIL.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\obj\Debug\LibIntuito.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\obj\Debug\LibIntuito.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\obj\Debug\LibIntuito.csprojResolveAssemblyReference.cache

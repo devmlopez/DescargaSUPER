@@ -1,0 +1,27 @@
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoSuper.exe.config
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoSuper.exe
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoSuper.pdb
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.csprojResolveAssemblyReference.cache
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.Form1.resources
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.Properties.Resources.resources
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.csproj.GenerateResource.Cache
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.exe
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.pdb
+c:\users\miguel\onedrive\documentos\visual studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.TxScript.dll
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoSuper.exe.config
+C:\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.exe
+C:\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.pdb
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoSuper.exe
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoSuper.pdb
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.TxScript.dll
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.Form1.resources
+C:\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.Properties.Resources.resources
+C:\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.csproj.GenerateResource.Cache
+C:\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.FormsInicio.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\LibIntuito.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoSuper.FormsInicio.resources

@@ -1,0 +1,32 @@
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.Form1.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.csproj.GenerateResource.Cache
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.TxScript.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\CLR-UTIL.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\LibIntuito.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.FormsInicio.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.exe.config
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.exe
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.Properties.Resources.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.exe
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.exe.config
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.exe
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.exe
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\LibIntuito.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.TxScript.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\CLR-UTIL.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.DTSRuntimeWrap.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.PipelineHost.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.DTSPipelineWrap.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.ManagedDTS.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\bin\Debug\LibIntuito.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.csprojResolveAssemblyReference.cache
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.Form1.resources
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.FormsInicio.resources
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.Properties.Resources.resources
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.csproj.GenerateResource.Cache

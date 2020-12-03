@@ -1,0 +1,112 @@
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasiva.exe.config
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasiva.exe
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasiva.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.Form1.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.Properties.Resources.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.csproj.GenerateResource.Cache
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.exe
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\CLR-SAPA.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\CLR-UTIL.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\TF_Core.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\CLR-REFERENCIA.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\CLR_DOCELC.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\itextsharp.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\CLR-LOGS.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\LibIntuito.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\CLR-EXP-EXC.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\MyExcel.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\EPPlus.dll
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\TF_Core.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\itextsharp.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasiva.exe.config
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.exe
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasiva.exe
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasiva.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Data.v16.1.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Printing.v16.1.Core.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Sparkline.v16.1.Core.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Utils.v16.1.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.XtraEditors.v16.1.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\LibIntuito.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\MyExcel.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\TF_Core.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Pdf.v16.1.Core.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\EPPlus.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\itextsharp.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\LibIntuito.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Data.v16.1.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Printing.v16.1.Core.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Sparkline.v16.1.Core.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Utils.v16.1.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.XtraEditors.v16.1.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\TF_Core.pdb
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DevExpress.Pdf.v16.1.Core.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\itextsharp.xml
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Data.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Data.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Data.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Data.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Printing.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Sparkline.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Utils.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Utils.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Utils.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Utils.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.XtraEditors.v16.1.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\de\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\es\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ja\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\ru\DevExpress.Pdf.v16.1.Core.resources.dll
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.csprojResolveAssemblyReference.cache
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.Form1.resources
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.Properties.Resources.resources
+C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasiva.csproj.GenerateResource.Cache

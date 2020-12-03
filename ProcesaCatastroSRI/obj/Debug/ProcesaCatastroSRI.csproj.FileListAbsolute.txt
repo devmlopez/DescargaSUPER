@@ -1,0 +1,9 @@
+C:\DescargaInfoSuper\ProcesaCatastroSRI\bin\Debug\ProcesaCatastroSRI.exe.config
+C:\DescargaInfoSuper\ProcesaCatastroSRI\bin\Debug\ProcesaCatastroSRI.exe
+C:\DescargaInfoSuper\ProcesaCatastroSRI\bin\Debug\ProcesaCatastroSRI.pdb
+C:\DescargaInfoSuper\ProcesaCatastroSRI\obj\Debug\ProcesaCatastroSRI.csprojResolveAssemblyReference.cache
+C:\DescargaInfoSuper\ProcesaCatastroSRI\obj\Debug\ProcesaCatastroSRI.Form1.resources
+C:\DescargaInfoSuper\ProcesaCatastroSRI\obj\Debug\ProcesaCatastroSRI.Properties.Resources.resources
+C:\DescargaInfoSuper\ProcesaCatastroSRI\obj\Debug\ProcesaCatastroSRI.csproj.GenerateResource.Cache
+C:\DescargaInfoSuper\ProcesaCatastroSRI\obj\Debug\ProcesaCatastroSRI.exe
+C:\DescargaInfoSuper\ProcesaCatastroSRI\obj\Debug\ProcesaCatastroSRI.pdb

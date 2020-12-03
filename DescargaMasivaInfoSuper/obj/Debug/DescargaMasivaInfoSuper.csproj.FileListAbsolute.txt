@@ -1,0 +1,16 @@
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasivaInfoSuper.exe.config
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasivaInfoSuper.exe
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasivaInfoSuper.pdb
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.Form1.resources
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.Properties.Resources.resources
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.csproj.GenerateResource.Cache
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.exe
+C:\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasivaInfoSuper.exe.config
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.exe
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasivaInfoSuper.exe
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\bin\Debug\DescargaMasivaInfoSuper.pdb
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.Form1.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.Properties.Resources.resources
+C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\DescargaMasivaInfoSuper\obj\Debug\DescargaMasivaInfoSuper.csproj.GenerateResource.Cache

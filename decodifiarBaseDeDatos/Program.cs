@@ -11,8 +11,17 @@ namespace decodifiarBaseDeDatos
     {
         static void Main(string[] args)
         {
-            string nombrebasedatos = @"C:\Users\Miguel\Downloads\20000-30000.mdb";
-            Procesar(nombrebasedatos);
+            //   string nombrebasedatos = @"C:\Users\Miguel\Downloads\700000-710000.mdb";
+            string nombrebasedatos = @"C:\Users\Miguel\Downloads\";
+            //var archivos = new List<string>() { nombrebasedatos }; //System.IO.Directory.GetFiles(nombrebasedatos);
+            var archivos = System.IO.Directory.GetFiles(nombrebasedatos);
+            foreach (var x in archivos)
+            {
+                if (x.Contains(".mdb"))
+                {
+                    Procesar(x);
+                }
+            }
         }
         public static void Procesar(string nombrebasedatos)
         {

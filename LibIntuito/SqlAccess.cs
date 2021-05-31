@@ -299,6 +299,94 @@ namespace LibIntuito
 
         }
 
+
+        /// <summary>
+        /// Consulta de todos los registros de la base de datos de access de las empresas sin filtros
+        /// </summary>
+        /// <param name="nombrebasedatos"></param>
+        /// <returns></returns>
+        public static List<InfoGeneralCompania> Selectall(string nombrebasedatos)
+        {
+
+            List<InfoGeneralCompania> ret = new List<InfoGeneralCompania>();
+            OdbcConnection conn = new OdbcConnection(Getstringconnection(nombrebasedatos));
+            try
+            {
+                string sql = "select * from tbl_registro";
+                DataSet ds = new DataSet();
+                conn.Open();
+                OdbcCommand cmd = new OdbcCommand(sql, conn);
+                using (OdbcDataAdapter da = new OdbcDataAdapter(cmd))
+                {
+                    da.Fill(ds);
+                    if (ds != null && ds.Tables.Count > 0)
+                    {
+                        foreach (var item in ds.Tables[0].AsEnumerable())
+                        {
+                            try
+                            {
+                                ret.Add(new InfoGeneralCompania()
+                                {
+                                    a_ig_Expediente = Convert.ToString(item.Field<int>("a_ig_Expediente")),
+                                    b_ig_RazonSocial = item.Field<string>("b_ig_RazonSocial"),
+                                    b_ig_NombreComercial = item.Field<string>("b_ig_NombreComercial"),
+                                    c_ig_Ruc = item.Field<string>("c_ig_Ruc"),
+                                    d_ig_FechadeConstitucion = item.Field<string>("d_ig_FechadeConstitucion"),
+                                    e_ig_Nacionalidad = item.Field<string>("e_ig_Nacionalidad"),
+                                    f_ig_PlazoSocial = item.Field<string>("f_ig_PlazoSocial"),
+                                    g_ig_TipoCompania = item.Field<string>("g_ig_TipoCompania"),
+                                    h_ig_OficinadeControl = item.Field<string>("h_ig_OficinadeControl"),
+                                    i_ig_SituacionLegal = item.Field<string>("i_ig_SituacionLegal"),
+                                    j_ubi_Provincia = item.Field<string>("j_ubi_Provincia"),
+                                    k_ubi_Canton = item.Field<string>("k_ubi_Canton"),
+                                    l_ubi_Ciudad = item.Field<string>("l_ubi_Ciudad"),
+                                    m_ubi_Parroquia = item.Field<string>("m_ubi_Parroquia"),
+                                    n_ubi_Calle = item.Field<string>("n_ubi_Calle"),
+                                    o_ubi_Numero = item.Field<string>("o_ubi_Numero"),
+                                    p_ubi_Interseccion = item.Field<string>("p_ubi_Interseccion"),
+                                    q_ubi_Ciudadela = item.Field<string>("q_ubi_Ciudadela"),
+                                    r_ubi_Conjunto = item.Field<string>("r_ubi_Conjunto"),
+                                    ra_ubi_Edificio_CentroComercial = item.Field<string>("ra_ubi_Edificio_CentroComercial"),
+                                    s_ubi_Barrio = item.Field<string>("s_ubi_Barrio"),
+                                    t_ubi_km = item.Field<string>("t_ubi_km"),
+                                    u_ubi_Camino = item.Field<string>("u_ubi_Camino"),
+                                    v_ubi_Piso = item.Field<string>("v_ubi_Piso"),
+                                    w_ubi_Bloque = item.Field<string>("w_ubi_Bloque"),
+                                    x_ubi_ReferenciaUbicacion = item.Field<string>("x_ubi_ReferenciaUbicacion"),
+                                    y_cont_CasilleroPostal = item.Field<string>("y_cont_CasilleroPostal"),
+                                    z_cont_Celular = item.Field<string>("z_cont_Celular"),
+                                    za_cont_Fax = item.Field<string>("za_cont_Fax"),
+                                    zb_cont_Telefono1 = item.Field<string>("zb_cont_Telefono1"),
+                                    zc_cont_Telefono2 = item.Field<string>("zc_cont_Telefono2"),
+                                    zd_cont_SitioWeb = item.Field<string>("zd_cont_SitioWeb"),
+                                    ze_cont_Correo1 = item.Field<string>("ze_cont_Correo1"),
+                                    zf_cont_Correo2 = item.Field<string>("zf_cont_Correo2"),
+                                    // fechacreacion = item.Field<string>("fechacreacion"),
+                                 //   sedecodifico = item.Field<bool>("sedecodifico"),
+                                });
+                            }
+                            catch (Exception exc)
+                            {
+
+                            }
+                        }
+                    }
+                }
+
+
+            }
+            catch (Exception exc)
+            {
+
+            }
+            finally
+            {
+                conn.Close();
+            }
+            return ret;
+
+        }
+
         public static bool ExisteRegistro(string a_ig_Expediente, string nombrebasedatos)
         {
             bool ret = false;

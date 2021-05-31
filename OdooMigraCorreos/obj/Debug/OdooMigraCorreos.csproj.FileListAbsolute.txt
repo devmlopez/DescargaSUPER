@@ -1,0 +1,12 @@
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\bin\Debug\OdooMigraCorreos.exe.config
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\bin\Debug\OdooMigraCorreos.exe
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\bin\Debug\OdooMigraCorreos.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\obj\Debug\OdooMigraCorreos.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\obj\Debug\OdooMigraCorreos.Form1.resources
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\obj\Debug\OdooMigraCorreos.Properties.Resources.resources
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\obj\Debug\OdooMigraCorreos.csproj.GenerateResource.Cache
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\obj\Debug\OdooMigraCorreos.exe
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\obj\Debug\OdooMigraCorreos.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\bin\Debug\CLR-UTIL.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\OdooMigraCorreos\bin\Debug\LibIntuito.pdb

@@ -21,7 +21,7 @@ namespace DescargaInfoIntuito
         public Form1()
         {
             InitializeComponent();
-            webBrowser1.ScriptErrorsSuppressed = true;
+            webBrowser1.ScriptErrorsSuppressed = false;
             iniciarTimer();
 
         }

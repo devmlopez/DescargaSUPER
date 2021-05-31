@@ -4,3 +4,8 @@ C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSupe
 C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\obj\Debug\LibIntuito.dll
 C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\obj\Debug\LibIntuito.pdb
 C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\LibIntuito\obj\Debug\LibIntuito.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Source\Repos\DescargaSUPER\LibIntuito\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\LibIntuito\bin\Debug\LibIntuito.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\LibIntuito\obj\Debug\LibIntuito.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Source\Repos\DescargaSUPER\LibIntuito\obj\Debug\LibIntuito.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\LibIntuito\obj\Debug\LibIntuito.pdb

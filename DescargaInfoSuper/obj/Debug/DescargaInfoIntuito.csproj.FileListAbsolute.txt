@@ -30,3 +30,17 @@ C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\Descar
 C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.FormsInicio.resources
 C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.Properties.Resources.resources
 C:\Users\devga\Source\Repos\DescargaInfoSuper\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.csproj.GenerateResource.Cache
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.exe.config
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.exe
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.exe
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\bin\Debug\DescargaInfoIntuito.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\bin\Debug\Microsoft.SqlServer.TxScript.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\bin\Debug\CLR-UTIL.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\bin\Debug\LibIntuito.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.csprojResolveAssemblyReference.cache
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.Form1.resources
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.FormsInicio.resources
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.Properties.Resources.resources
+C:\Users\Miguel\Source\Repos\DescargaSUPER\DescargaInfoSuper\obj\Debug\DescargaInfoIntuito.csproj.GenerateResource.Cache

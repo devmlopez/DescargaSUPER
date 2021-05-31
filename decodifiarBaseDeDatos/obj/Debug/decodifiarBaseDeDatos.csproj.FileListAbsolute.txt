@@ -7,3 +7,12 @@ C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSupe
 C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\decodifiarBaseDeDatos\obj\Debug\decodifiarBaseDeDatos.csprojResolveAssemblyReference.cache
 C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\decodifiarBaseDeDatos\obj\Debug\decodifiarBaseDeDatos.exe
 C:\Users\Miguel\OneDrive\Documentos\Visual Studio 2015\Projects\DescargaInfoSuper\decodifiarBaseDeDatos\obj\Debug\decodifiarBaseDeDatos.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\bin\Debug\decodifiarBaseDeDatos.exe.config
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\obj\Debug\decodifiarBaseDeDatos.exe
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\obj\Debug\decodifiarBaseDeDatos.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\bin\Debug\decodifiarBaseDeDatos.exe
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\bin\Debug\decodifiarBaseDeDatos.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\bin\Debug\LibIntuito.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\bin\Debug\CLR-UTIL.dll
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\bin\Debug\LibIntuito.pdb
+C:\Users\Miguel\Source\Repos\DescargaSUPER\decodifiarBaseDeDatos\obj\Debug\decodifiarBaseDeDatos.csprojResolveAssemblyReference.cache
